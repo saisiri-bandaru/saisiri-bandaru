@@ -14,26 +14,26 @@ Work samples for a fictional company (Northline Consumer Products). No employer 
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/saisiri-bandaru/fpna-variance-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisiri-bandaru&repo=fpna-variance-dashboard&hide_border=true&description_lines_count=2" alt="FP&A variance dashboard" />
+        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/fpna-variance-dashboard" alt="FP&A variance dashboard" width="100%" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/saisiri-bandaru/cost-accounting-workbook">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisiri-bandaru&repo=cost-accounting-workbook&hide_border=true&description_lines_count=2" alt="Cost accounting workbook" />
+        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/cost-accounting-workbook" alt="Cost accounting workbook" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/saisiri-bandaru/thirteen-week-cash-forecast">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisiri-bandaru&repo=thirteen-week-cash-forecast&hide_border=true&description_lines_count=2" alt="13-week cash forecast" />
+        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/thirteen-week-cash-forecast" alt="13-week cash forecast" width="100%" />
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/saisiri-bandaru/three-statement-model">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=saisiri-bandaru&repo=three-statement-model&hide_border=true&description_lines_count=2" alt="Three-statement model" />
+        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/three-statement-model" alt="Three-statement model" width="100%" />
       </a>
     </td>
   </tr>
