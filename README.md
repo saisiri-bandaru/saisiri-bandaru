@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sai Siri Bandaru
 
-<!--
-**saisiri-bandaru/saisiri-bandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial Analyst | FP&A | forecasting, variance analysis, Excel & Power BI
 
-Here are some ideas to get you started:
+US roles: Financial Analyst, FP&A, finance-adjacent analytics — full-time or 3–12 month contract.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+- [fpna-variance-dashboard](https://github.com/saisiri-bandaru/fpna-variance-dashboard) — monthly Actual vs Budget vs Forecast flash, margin and OpEx variances, COGS rate vs volume split
+- [cost-accounting-workbook](https://github.com/saisiri-bandaru/cost-accounting-workbook) — standard-cost variances (material, labor, overhead) and a COGS bridge
+
+Sample files use a fictional company. No confidential employer data.
+
+## Contact
+
+bandarusaisiri1207@gmail.com
