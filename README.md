@@ -8,8 +8,8 @@ Open to Financial Analyst and FP&A roles in the US (full-time or 3–12 month co
 
 ## How to use this profile
 
-1. Pick a project below.
-2. Open the `.xlsx` file in that repo.
+1. Start with the [FP&A variance dashboard](https://github.com/saisiri-bandaru/fpna-variance-dashboard) — the README has a preview of the flash.
+2. Open the `.xlsx` if you want the formulas.
 3. Yellow cells with blue font are inputs. Black font is formulas.
 
 All sample numbers are fictional. There is no employer data here.
