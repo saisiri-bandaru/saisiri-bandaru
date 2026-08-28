@@ -15,7 +15,7 @@ I enjoy working with financial and operating data to build variance analysis, fo
 
 I’m especially interested in work where finance connects directly with business operations—understanding what changed, why it changed, and what the numbers mean for the next decision.
 
-[Portfolio site](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/sai-siri-bandaru) · [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
+[Portfolio site](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/sai-siri-bandaru) · [bandarusaisiri1207@gmail.com]
 
 ---
 
