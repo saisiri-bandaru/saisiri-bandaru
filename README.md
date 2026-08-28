@@ -1,67 +1,65 @@
 # Sai Siri Bandaru
 
-**Financial Analyst | FP&A | Operations Finance**
+**Financial Analyst · FP&A · Operations Finance**
 
-I build monthly close files, variance stories, and cash views in Excel.
+I turn messy operating data into a close pack an executive can defend: variance story, cash view, and the next-quarter staffing number.
 
-Open to Financial Analyst and FP&A roles in the US (full-time or 3–12 month contract).
+Open to Financial Analyst and FP&A roles in the US — full-time or 3–12 month contract.
 
-**Portfolio:** [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io) · **LinkedIn:** [bandarusaisiri](https://www.linkedin.com/in/bandarusaisiri) · **Email:** [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
+[Portfolio site](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
 
-## Featured repositories
+---
 
-Work samples for a fictional company (Northline Consumer Products). No employer data.
+## Recruiter path (8 minutes)
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/saisiri-bandaru/fpna-variance-dashboard">
-        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/fpna-variance-dashboard" alt="FP&A variance dashboard" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/saisiri-bandaru/dcf-valuation-model">
-        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/dcf-valuation-model" alt="DCF valuation model" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/saisiri-bandaru/cost-accounting-workbook">
-        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/cost-accounting-workbook" alt="Cost accounting workbook" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/saisiri-bandaru/three-statement-model">
-        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/three-statement-model" alt="Three-statement model" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/saisiri-bandaru/thirteen-week-cash-forecast">
-        <img src="https://opengraph.githubassets.com/1/saisiri-bandaru/thirteen-week-cash-forecast" alt="13-week cash forecast" width="100%" />
-      </a>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+1. Open the **[portfolio site](https://saisiri-bandaru.github.io)** for experience, toolkit, and the recruiter packet.
+2. Download **one** workbook below. Yellow cells with blue font are inputs. Black font is formulas.
+3. Change a driver. The story on the output tab should move.
 
-## What to open
+All sample numbers are for a fictional company (**Northline Consumer Products**). No employer data is in these files.
 
-| Project | What it is | File |
-| --- | --- | --- |
-| [Portfolio site](https://saisiri-bandaru.github.io) | Recruiter-facing selected work and packet | — |
-| [FP&A variance dashboard](https://github.com/saisiri-bandaru/fpna-variance-dashboard) | Actual vs Budget vs Forecast, margin, OpEx, COGS rate vs volume | `Northline_FPNA_Variance_Dashboard_FY2026.xlsx` |
-| [DCF valuation model](https://github.com/saisiri-bandaru/dcf-valuation-model) | Unlevered DCF: FCF build, WACC, terminal value, NPV and IRR | `Northline_DCF_Valuation_Model.xlsx` |
-| [Cost accounting workbook](https://github.com/saisiri-bandaru/cost-accounting-workbook) | Material, labor, and overhead variances plus a COGS bridge | `Northline_Cost_Accounting_Variances_Jul2026.xlsx` |
-| [13-week cash forecast](https://github.com/saisiri-bandaru/thirteen-week-cash-forecast) | Weekly receipts, disbursements, ending cash | `Northline_13_Week_Cash_Forecast.xlsx` |
-| [Three-statement model](https://github.com/saisiri-bandaru/three-statement-model) | Linked P&L, balance sheet, and cash flow | `Northline_Three_Statement_Model.xlsx` |
+---
 
-Yellow cells with blue font are inputs. Black font is formulas.
+## Featured work — open these three
+
+| Order | Model | Business question | File |
+| --- | --- | --- | --- |
+| 1 | [FP&A variance dashboard](https://github.com/saisiri-bandaru/fpna-variance-dashboard) | Why did margin miss, and is it rate or volume? | `Northline_FPNA_Variance_Dashboard_FY2026.xlsx` |
+| 2 | [Cost accounting workbook](https://github.com/saisiri-bandaru/cost-accounting-workbook) | Which plant variance sits with purchasing vs the floor? | `Northline_Cost_Accounting_Variances_Jul2026.xlsx` |
+| 3 | [13-week cash forecast](https://github.com/saisiri-bandaru/thirteen-week-cash-forecast) | Can we fund payroll and vendors if receipts slip one week? | `Northline_13_Week_Cash_Forecast.xlsx` |
+
+### Also available if you want the full stack
+
+| Model | What it proves |
+| --- | --- |
+| [Three-statement model](https://github.com/saisiri-bandaru/three-statement-model) | P&L, balance sheet, and cash flow stay tied when a driver moves |
+| [DCF valuation](https://github.com/saisiri-bandaru/dcf-valuation-model) | Unlevered FCF, WACC, terminal value, NPV and IRR on a capital ask |
+
+---
+
+## What I am hired to do
+
+- Monthly close: Actual vs Budget vs Forecast, commentary, and a rate-vs-volume split
+- Operations finance: unit cost, throughput, and staffing reforecasts operators can run the week on
+- Cash and working capital: 13-week receipts / disbursements and cash conversion diagnostics
+- Capital: NPV / IRR packs that survive a challenge from finance leadership
+
+**Toolkit:** Advanced Excel · Power BI · Tableau · NetSuite · SAP / Oracle  
+**Education:** M.S. Business Analytics (University of New Haven) · MBA, Accounting & Finance
+
+---
+
+## How the workbooks are built
+
+- One fictional company across files so the story is consistent
+- Cover tab + data dictionary so another analyst can inherit the file
+- No VBA. No live ERP extracts. No confidential figures
+- Designed for a screen-share: change the yellow cell, read the dashboard
+
+---
 
 ## Contact
 
 - Email: [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
 - LinkedIn: [linkedin.com/in/bandarusaisiri](https://www.linkedin.com/in/bandarusaisiri)
-- GitHub: [github.com/saisiri-bandaru](https://github.com/saisiri-bandaru)
+- Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
