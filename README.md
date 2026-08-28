@@ -2,11 +2,24 @@
 
 **Financial Analyst · FP&A · Operations Finance**
 
-I turn messy operating data into a close pack an executive can defend: variance story, cash view, and the next-quarter staffing number.
+I’m a Financial Analyst focused on FP&A, operations finance, and turning business data into clear financial insights.
+
+I enjoy working with financial and operating data to build variance analysis, forecasting models, cash-flow views, management reporting, and decision-ready analysis. My goal is simple: turn complex numbers into a story that business leaders can actually use.
+
+**Areas of focus**
+
+- Financial Planning & Analysis (FP&A)
+- Budgeting, Forecasting & Variance Analysis
+- Financial Modeling & Management Reporting
+- Cash Flow & Operational Analysis
+- Excel, Power BI & SQL
+- Process Improvement & Data-Driven Decision Making
+
+I’m especially interested in work where finance connects directly with business operations—understanding what changed, why it changed, and what the numbers mean for the next decision.
 
 Open to Financial Analyst and FP&A roles in the US — full-time or 3–12 month contract.
 
-[Portfolio site](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
+[Portfolio site](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/sai-siri-bandaru) · [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
 
 ---
 
@@ -44,7 +57,7 @@ All sample numbers are for a fictional company (**Northline Consumer Products**)
 - Cash and working capital: 13-week receipts / disbursements and cash conversion diagnostics
 - Capital: NPV / IRR packs that survive a challenge from finance leadership
 
-**Toolkit:** Advanced Excel · Power BI · Tableau · NetSuite · SAP / Oracle  
+**Toolkit:** Advanced Excel · Power BI · Tableau · SQL · NetSuite · SAP / Oracle  
 **Education:** M.S. Business Analytics (University of New Haven) · MBA, Accounting & Finance
 
 ---
@@ -61,5 +74,5 @@ All sample numbers are for a fictional company (**Northline Consumer Products**)
 ## Contact
 
 - Email: [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
-- LinkedIn: [linkedin.com/in/bandarusaisiri](https://www.linkedin.com/in/bandarusaisiri)
+- LinkedIn: [linkedin.com/in/sai-siri-bandaru](https://www.linkedin.com/in/sai-siri-bandaru)
 - Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
