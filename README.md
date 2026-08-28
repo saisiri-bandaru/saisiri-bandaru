@@ -1,4 +1,4 @@
-# Sai Siri Bandaru
+no# Sai Siri Bandaru
 
 **Financial Analyst · FP&A · Operations Finance**
 
@@ -16,8 +16,6 @@ I enjoy working with financial and operating data to build variance analysis, fo
 - Process Improvement & Data-Driven Decision Making
 
 I’m especially interested in work where finance connects directly with business operations—understanding what changed, why it changed, and what the numbers mean for the next decision.
-
-Open to Financial Analyst and FP&A roles in the US — full-time or 3–12 month contract.
 
 [Portfolio site](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/sai-siri-bandaru) · [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
 
