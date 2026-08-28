@@ -1,6 +1,4 @@
-no# Sai Siri Bandaru
 
-**Financial Analyst · FP&A · Operations Finance**
 
 I’m a Financial Analyst focused on FP&A, operations finance, and turning business data into clear financial insights.
 
