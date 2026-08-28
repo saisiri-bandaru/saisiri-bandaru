@@ -69,6 +69,6 @@ All sample numbers are for a fictional company (**Northline Consumer Products**)
 
 ## Contact
 
-- Email: [saisiri.bandaru12@gmail.com](mailto:saisiri.bandaru12@gmail.com)
+- Email: [bandarusaisiri1207@gmail.com]
 - LinkedIn: [linkedin.com/in/sai-siri-bandaru](https://www.linkedin.com/in/sai-siri-bandaru)
 - Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
