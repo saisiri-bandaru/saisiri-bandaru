@@ -12,7 +12,7 @@
 **Financial Analyst · FP&A · Operations Finance**  
 PNC Financial Services · M.S. Business Analytics (University of New Haven) · MBA, Accounting & Finance
 
-I sit between operations and the P&L. I build variance packs, driver-based forecasts, cash views, and capital cases that a leader can use in the meeting — not a week later.
+I sit between operations and the P&L. I build variance packs, driver-based forecasts, cash views, and capital cases that a leader can use in the meeting 
 
 [Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/sai-siri-bandaru) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
 
