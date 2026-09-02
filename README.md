@@ -47,10 +47,11 @@ Month end packs, MIS reporting, standardized templates, executive dashboards
 NPV / IRR, ROI and payback, AP / AR and liquidity analysis, cash position tracking, CAPEX support
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,python,mysql,postgres,aws,git,github&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github&theme=dark" alt="Tools" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -117,12 +118,9 @@ Actual vs budget on overhead and labor, daily cash monitoring, monthly MIS on EB
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisiri-bandaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats2.vercel.app/api?username=saisiri-bandaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com?user=saisiri-bandaru&theme=tokyonight&hide_border=true)
 
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=saisiri-bandaru&theme=tokyonight&no-frame=true&column=6&margin-w=8)
 
 </div>
 
