@@ -1,33 +1,50 @@
 <div align="center">
 
-<img src="./sai.jpg" width="260" alt="Sai Siri Bandaru" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1B2838,100:243B55&height=200&section=header&text=Sai%20Siri%20Bandaru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Financial%20Analyst%20%7C%20FP%26A%20%7C%20Operations%20Finance&descAlignY=58&descSize=16" width="100%" alt="header" />
+
+<img src="./sai.jpg" width="140" alt="Sai Siri Bandaru" />
 
 <br/>
 
-# Sai Siri Bandaru
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Financial+Analyst+%2F+FP%26A;Operations+Finance;Variance+%2F+Forecast+%2F+Cash)](https://saisiri-bandaru.github.io)
 
-**Financial Analyst / FP&A / Operations Finance**
+<br/>
+
+![MS BA](https://img.shields.io/badge/M.S.%20Business%20Analytics-University%20of%20New%20Haven-0A66C2?style=for-the-badge)
+![MBA](https://img.shields.io/badge/MBA%20Accounting%20%26%20Finance-JNTU%20Kakinada-1F6FEB?style=for-the-badge)
+![Location](https://img.shields.io/badge/Greater%20Boston%2C%20MA-111111?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bandarusaisiri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandarusaisiri1207@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://saisiri-bandaru.github.io)
-
-<br/>
-
-PNC Financial Services / M.S. Business Analytics / MBA, Accounting and Finance
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisiri-bandaru)
 
 </div>
 
-## About
+## About Me
 
-Hi, I'm Sai Siri Bandaru. I work between operations and the P&L. I build variance packs, driver based forecasts, cash views, and capital cases that a leader can use in the meeting.
+Hi, I'm **Sai Siri Bandaru**. Financial Analyst with 4+ years of FP&A work across U.S. banking and international operations. I build forecasts, monthly actual vs budget packs with written commentary, KPI dashboards, and quarterly reforecasts that inform staffing and resource decisions.
 
-- Focused on FP&A, operations finance, and working capital
+- Currently: **Financial Analyst, Operations Finance / FP&A** at PNC Financial Services
+- Recent signal: process and unit cost work that supported a **2% throughput lift**
 - Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
-- Supported a 2% throughput lift at PNC through process and unit cost work
-- Every sample workbook below uses one fictional company so a recruiter can test the logic quickly
+- Tools: Advanced Excel, Power BI, Tableau, Oracle NetSuite, SAP
 
-## toolbox
+## Skills
+
+**Planning and forecasting**  
+Annual budgets, quarterly reforecasts, staffing and capacity planning, driver based forecasts
+
+**Variance and performance**  
+Actual vs budget, prior period and standard cost variance, volume / rate / mix commentary, KPI design
+
+**Reporting and close**  
+Month end packs, MIS reporting, standardized templates, executive dashboards
+
+**Investment and working capital**  
+NPV / IRR, ROI and payback, AP / AR and liquidity analysis, cash position tracking, CAPEX support
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=excel,python,mysql,postgres,aws,git,github&theme=dark" alt="Tools" />
@@ -39,17 +56,16 @@ Hi, I'm Sai Siri Bandaru. I work between operations and the P&L. I build varianc
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/NetSuite-B2002F?style=for-the-badge&logo=oracle&logoColor=white" alt="NetSuite" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-On the job I use Advanced Excel, Power BI, Tableau, SQL, NetSuite, and SAP or Oracle. The files in this profile are Excel models with formulas only. No VBA, no live ERP extracts, and no confidential figures.
-
-## for recruiters
+## For recruiters
 
 1. Skim the [portfolio](https://saisiri-bandaru.github.io) for experience and results
-2. Open one workbook below. Yellow cells with blue font are inputs. Black font is formulas
+2. Open **one** workbook below. Yellow cells with blue font are inputs. Black font is formulas
 3. Change a driver and watch the output tab move with it
 
-All sample numbers are for a fictional company called Northline Consumer Products. No employer data is in these files.
+All sample numbers are for a fictional company called **Northline Consumer Products**. No employer data is in these files.
 
 ## Open these four
 
@@ -75,16 +91,50 @@ All sample numbers are for a fictional company called Northline Consumer Product
 
 </details>
 
-## what I am hired to do
+## Experience
 
-- Monthly close: Actual vs Budget vs Forecast, commentary, and a rate vs volume split
-- Operations finance: unit cost, throughput, and staffing reforecasts operators can run the week on
-- Cash and working capital: 13 week receipts and disbursements, plus cash conversion diagnostics
-- Capital: NPV and IRR packs that hold up when finance leadership challenges them
+**PNC Financial Services** ,  Financial Analyst, Operations Finance / FP&A (Jun 2025 ,  Present)  
+Monthly actual vs budget and prior period variance, executive KPI dashboards, quarterly staffing reforecasts, advanced Excel models for production volumes. Partnered with operations on workflow bottlenecks that supported a 2% throughput lift.
 
-## contact
+**upGrad** ,  Financial Analyst (Apr 2022 ,  Jul 2023)  
+Budget vs actual packs, tuition and scholarship forecasting, NetSuite and Banner reporting automation, Power BI and Tableau dashboards, NPV / IRR on capital projects.
+
+**BYJU’S** ,  Sales Analyst (Jan 2021 ,  Mar 2022)  
+Departmental budgets, actual vs standard cost variance, AP / AR and working capital analysis, ROI and payback on capital spend.
+
+**BSNL** ,  Junior Financial Analyst (Jan 2019 ,  Aug 2019)  
+Actual vs budget on overhead and labor, daily cash monitoring, monthly MIS on EBITDA and leverage from SAP and Oracle ERP.
+
+## Education
+
+| Degree | School |
+| --- | --- |
+| M.S., Business Analytics (Beta Gamma Sigma) | University of New Haven |
+| MBA, Accounting and Finance | JNTU Kakinada |
+| Bachelor’s, Accounting and Finance | Acharya Nagarjuna University |
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saisiri-bandaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=saisiri-bandaru&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=saisiri-bandaru&theme=tokyonight&no-frame=true&column=6&margin-w=8)
+
+</div>
+
+## Connect
 
 - Email: [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
 - Phone: [203.533.9355](tel:+12035339355)
 - LinkedIn: [linkedin.com/in/bandarusaisiri](https://www.linkedin.com/in/bandarusaisiri)
 - Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1B2838,100:243B55&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
