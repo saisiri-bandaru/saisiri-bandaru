@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./portrait.jpg" width="260" alt="Sai Siri Bandaru" />
+<img src="./sai.jpg" width="260" alt="Sai Siri Bandaru" />
 
 <br/>
 
@@ -18,11 +18,7 @@ PNC Financial Services / M.S. Business Analytics / MBA, Accounting and Finance
 
 </div>
 
-## whoami
-
-```console
-$ cat about.txt
-```
+## About
 
 Hi, I'm Sai Siri Bandaru. I work between operations and the P&L. I build variance packs, driver based forecasts, cash views, and capital cases that a leader can use in the meeting.
 
