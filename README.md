@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1B2838,100:243B55&height=200&section=header&text=Sai%20Siri%20Bandaru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Financial%20Analyst%20%7C%20FP%26A%20%7C%20Operations%20Finance&descAlignY=58&descSize=16" width="100%" alt="header" />
-
 <img src="./sai.jpg" width="140" alt="Sai Siri Bandaru" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Financial+Analyst+%2F+FP%26A;Operations+Finance;Variance+%2F+Forecast+%2F+Cash)](https://saisiri-bandaru.github.io)
+**Financial Analyst / FP&A / Operations Finance**
 
 <br/>
 
 ![MS BA](https://img.shields.io/badge/M.S.%20Business%20Analytics-University%20of%20New%20Haven-0A66C2?style=for-the-badge)
 ![MBA](https://img.shields.io/badge/MBA%20Accounting%20%26%20Finance-JNTU%20Kakinada-1F6FEB?style=for-the-badge)
-![Location](https://img.shields.io/badge/Greater%20Boston%2C%20MA-111111?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Open%20to%20work%20across%20the%20USA-111111?style=for-the-badge)
 
 <br/>
 
@@ -47,7 +45,7 @@ Month end packs, MIS reporting, standardized templates, executive dashboards
 NPV / IRR, ROI and payback, AP / AR and liquidity analysis, cash position tracking, CAPEX support
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github&theme=dark" alt="Tools" />
 </p>
 
 <p align="center">
@@ -114,25 +112,9 @@ Actual vs budget on overhead and labor, daily cash monitoring, monthly MIS on EB
 | MBA, Accounting and Finance | JNTU Kakinada |
 | Bachelor’s, Accounting and Finance | Acharya Nagarjuna University |
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats2.vercel.app/api?username=saisiri-bandaru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=saisiri-bandaru&theme=tokyonight&hide_border=true)
-
-
-</div>
-
 ## Connect
 
 - Email: [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
 - Phone: [203.533.9355](tel:+12035339355)
 - LinkedIn: [linkedin.com/in/bandarusaisiri](https://www.linkedin.com/in/bandarusaisiri)
 - Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1B2838,100:243B55&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
