@@ -2,7 +2,7 @@
 
 <img src="./sai.jpg" width="140" alt="Sai Siri Bandaru" />
 
-<br/>
+# Sai Siri Bandaru
 
 **Financial Analyst / FP&A / Operations Finance**
 
