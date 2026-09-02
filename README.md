@@ -12,9 +12,9 @@
 **Financial Analyst · FP&A · Operations Finance**  
 PNC Financial Services · M.S. Business Analytics (University of New Haven) · MBA, Accounting & Finance
 
-I sit between operations and the P&L. I build variance packs, driver-based forecasts, cash views, and capital cases that a leader can use in the meeting 
+I sit between operations and the P&L. I build variance packs, driver-based forecasts, cash views, and capital cases that a leader can use in the meeting — not a week later.
 
-[Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/sai-siri-bandaru) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
+[Portfolio](https://saisiri-bandaru.github.io) · [LinkedIn](https://www.linkedin.com/in/bandarusaisiri) · [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
 
 ---
 
@@ -80,5 +80,6 @@ All sample numbers are for a fictional company (**Northline Consumer Products**)
 ## Contact
 
 - Email: [bandarusaisiri1207@gmail.com](mailto:bandarusaisiri1207@gmail.com)
-- LinkedIn: [linkedin.com/in/sai-siri-bandaru](https://www.linkedin.com/in/sai-siri-bandaru)
+- Phone: [203.533.9355](tel:+12035339355)
+- LinkedIn: [linkedin.com/in/bandarusaisiri](https://www.linkedin.com/in/bandarusaisiri)
 - Portfolio: [saisiri-bandaru.github.io](https://saisiri-bandaru.github.io)
