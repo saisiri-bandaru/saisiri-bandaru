@@ -93,16 +93,16 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 
 ## Experience
 
-**PNC Financial Services** ,  Financial Analyst, Operations Finance / FP&A (Jun 2025 ,  Present)  
+**PNC Financial Services**, Financial Analyst, Operations Finance / FP&A (Jun 2025 to Present)  
 Monthly actual vs budget and prior period variance, executive KPI dashboards, quarterly staffing reforecasts, advanced Excel models for production volumes. Partnered with operations on workflow bottlenecks that supported a 2% throughput lift.
 
-**upGrad** ,  Financial Analyst (Apr 2022 ,  Jul 2023)  
+**upGrad**, Financial Analyst (Apr 2022 to Jul 2023)  
 Budget vs actual packs, tuition and scholarship forecasting, NetSuite and Banner reporting automation, Power BI and Tableau dashboards, NPV / IRR on capital projects.
 
-**BYJU’S** ,  Sales Analyst (Jan 2021 ,  Mar 2022)  
+**BYJU’S**, Sales Analyst (Jan 2021 to Mar 2022)  
 Departmental budgets, actual vs standard cost variance, AP / AR and working capital analysis, ROI and payback on capital spend.
 
-**BSNL** ,  Junior Financial Analyst (Jan 2019 ,  Aug 2019)  
+**BSNL**, Junior Financial Analyst (Jan 2019 to Aug 2019)  
 Actual vs budget on overhead and labor, daily cash monitoring, monthly MIS on EBITDA and leverage from SAP and Oracle ERP.
 
 ## Education
