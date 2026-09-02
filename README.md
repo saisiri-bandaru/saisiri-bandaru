@@ -44,6 +44,8 @@ All sample numbers are for a fictional company (**Northline Consumer Products**)
 | --- | --- |
 | [Three-statement model](https://github.com/saisiri-bandaru/three-statement-model) | P&L, balance sheet, and cash flow stay tied when a driver moves |
 | [DCF valuation](https://github.com/saisiri-bandaru/dcf-valuation-model) | Unlevered FCF, WACC, terminal value, NPV and IRR on a capital ask |
+| [Driver-based forecast](https://github.com/saisiri-bandaru/driver-based-forecast) | Volume × price, COGS drivers, OpEx by cost center, plan vs reforecast |
+| [Capex investment case](https://github.com/saisiri-bandaru/capex-investment-case) | Project cash flows with NPV, IRR, payback, and a one-pager |
 | [Working capital dashboard](https://github.com/saisiri-bandaru/working-capital-dashboard) | AR/AP aging, inventory days, cash conversion cycle |
 | [Headcount staffing forecast](https://github.com/saisiri-bandaru/headcount-staffing-forecast) | 12-month headcount and loaded-cost plan vs reforecast |
 | [Monthly KPI scorecard](https://github.com/saisiri-bandaru/monthly-kpi-scorecard) | Ops and finance KPIs with targets, variances, RAG |
