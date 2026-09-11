@@ -76,11 +76,12 @@ All sample numbers are for a fictional company called **Northline Consumer Produ
 | 4 | [Driver-based forecast](https://github.com/saisiri-bandaru/driver-based-forecast) | If volume or cost moves, what happens to the P&L vs plan? | `Northline_Driver_Based_Forecast.xlsx` |
 
 <details>
-<summary>More models (three-statement, DCF, capex, working capital, headcount, KPI)</summary>
+<summary>More models (margin/mix, three-statement, DCF, capex, working capital, headcount, KPI)</summary>
 <br/>
 
 | Model | What it proves |
 | --- | --- |
+| [Margin & mix bridge](https://github.com/saisiri-bandaru/margin-mix-bridge) | Volume can be up while GM% falls — price, volume, mix, and cost walk |
 | [Three-statement model](https://github.com/saisiri-bandaru/three-statement-model) | P&L, balance sheet, and cash flow stay tied when a driver moves |
 | [DCF valuation](https://github.com/saisiri-bandaru/dcf-valuation-model) | Unlevered FCF, WACC, terminal value, NPV and IRR on a capital ask |
 | [Capex investment case](https://github.com/saisiri-bandaru/capex-investment-case) | Project cash flows with NPV, IRR, payback, and a one-pager |
